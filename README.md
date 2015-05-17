@@ -1,4 +1,4 @@
-# MT_CFLite
+# MT_CFLite v 855.17
 
 What is CFLite?
 **** **** **** **** ****
@@ -47,7 +47,8 @@ libdispatch library i really don't remember from where i get it, maybe will upda
 
 MT_CFLite License :
 **** **** **** ****
-libdispatch.a library was included and it's not related to this licence, it's licenced under "Apache Licence"
-
 
 The same thing as original one from APPLE.
+
+libdispatch.a library was included and it's not related to this licence, it's licenced under "Apache Licence"
+
