@@ -1,52 +1,56 @@
 # MT_CFLite v 855.17
 
-What is CFLite?
-**** **** **** **** ****
+______________
+
+Introduction
+--------------
 
 Read README_CFLite :)
 
+______________
+
 How to build and clean?
-**** **** **** **** ****
+--------------
 
 After setup tools needed from file above, i make it simpler :)
 
-
+______________
 
 Build:
-______
+****
 
-Make
+	`Make`
 
+______________
 
 
 Install:
-______
+****
 
-Make install
+	`Make install`
 
-
+______________
 
 Clean:
-______
+****
 
-Make clean-cmake-files
+	`Make clean-cmake-files`
+	or
+	`Make clean-all`
 
-or
-**
-
-Make clean-all
-
-
+______________
 
 Thanks for:
-**** **** **** ****
-https://github.com/nickhutchinson/CFLite
-----------------------------------------
-libdispatch library i really don't remember from where i get it, maybe will update soon to add credits.
+--------------
 
+https://github.com/nickhutchinson/CFLite
+**** **** **** **** ****
+***libdispatch*** library i really don't remember from where i get it, maybe will update soon to add credits.
+
+______________
 
 MT_CFLite License :
-**** **** **** ****
+--------------
 
 The same thing as original one from APPLE.
 
