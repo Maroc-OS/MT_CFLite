@@ -5,14 +5,23 @@ ______________
 Introduction
 --------------
 
-Read README_CFLite :)
+Read README_CFLite :).
+
+Project uses `Cmake`.
 
 ______________
 
 How to build and clean?
 --------------
 
-After setup tools needed from file above, i make it simpler :)
+After setup tools needed by reading file above, i make it simpler to be completely cleaned:)
+
+______________
+
+Initialize project and generate cmake files:
+****
+
+	`cmake .`
 
 ______________
 
@@ -54,5 +63,5 @@ MT_CFLite License :
 
 The same thing as original one from APPLE.
 
-libdispatch.a library was included and it's not related to this licence, it's licenced under "Apache Licence"
+***libdispatch.a*** pre-built library was included and it's not related to this licence, it's licenced under "Apache Licence"
 
